@@ -4,7 +4,7 @@
 - Had some time working in other profession(graphic design)
 - Started studying web frontend about a half year ago
 
-You can always reach me via [email](yongseung.song@icloud.com). I'm open to all sorts of job offer, collaborations or just a talk over a cup of coffee!
+You can always reach me via email. I'm open to all sorts of job offer, collaborations or just a talk over my projects!
 
 Thanks for visiting my github profile and may you have a good day!
 
