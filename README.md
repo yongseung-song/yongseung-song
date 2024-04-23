@@ -1,10 +1,10 @@
-### Hi. My name is Yongseung Song, I'm a frontend developer and a runner.
+### Hi. My name is Yongseung Song, I'm a frontend developer.
 
 - I majored in Computer Science(BS)
 - Had some time working in other profession(graphic design)
 - Started studying web frontend about a half year ago
 
-You can always reach me via email. I'm open to all sorts of job offer, collaborations or just a talk over my projects!
+You can always reach me via email. I'm open to all sorts of job offer, collaborations or just a talk over either your project or mine. Thank you.
 
 <!--
 **yongseung-song/yongseung-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
