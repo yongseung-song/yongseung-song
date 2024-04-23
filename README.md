@@ -6,8 +6,6 @@
 
 You can always reach me via email. I'm open to all sorts of job offer, collaborations or just a talk over my projects!
 
-Thanks for visiting my github profile and may you have a good day!
-
 <!--
 **yongseung-song/yongseung-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
