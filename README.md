@@ -1,10 +1,12 @@
-### Hi. My name is Yongseung Song, I'm a frontend developer.
+### Hi. My name is Yongseung Song, I'm a web frontend developer.
+#### Currently
+- Working as a React Native Developer in Seoul, Korea
+#### Previous Experience
+- Majored in Computer Science (BS)
+- Worked in graphic design for a period
+- Started digging web frontend development in 2023
 
-- I majored in Computer Science(BS)
-- Had some time working in other profession(graphic design)
-- Started studying web frontend about a half year ago
-
-You can always reach me via email. I'm open to all sorts of job offer, collaborations or just a talk over either your project or mine. Thank you.
+You can always reach me via email. I'm open to all sorts of collaborations or just a talk over either your project or mine. Thank you.
 
 <!--
 **yongseung-song/yongseung-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
